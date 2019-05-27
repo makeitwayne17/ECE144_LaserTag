@@ -3,9 +3,9 @@ Build by Bryant Liu, Avak Archanian, Liezl Maree
 
 ## About
 Laser tag project built with labView.
-### Software Stack
+#### Software Stack
   LabView, Arduino
-### Hardware Stack
+#### Hardware Stack
   Arduino, myRIO, laser cutter, 3D Printer
 
 ## Getting started
