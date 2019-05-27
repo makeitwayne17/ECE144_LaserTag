@@ -1,6 +1,12 @@
 # ECE144_LaserTag
-Laser Tag project built with labView\n
 Build by Bryant Liu, Avak Archanian, Liezl Maree
+
+## About
+Laser tag project built with labView.
+### Software Stack
+  LabView, Arduino
+### Hardware Stack
+  Arduino, myRIO, laser cutter, 3D Printer
 
 ## Getting started
 Wire myRio into computer's USB port and power on the Arduino.
