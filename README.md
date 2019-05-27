@@ -1,11 +1,11 @@
 # ECE144_LaserTag
-Laser Tag project built with labView
+Laser Tag project built with labView\n
 Build by Bryant Liu, Avak Archanian, Liezl Maree
 
-##Getting started
+## Getting started
 Wire myRio into computer's USB port and power on the Arduino.
 
-##Installing
+## Installing
 ```Bash
 git clone https://github.com/makeitwayne17/ECE144_LaserTag.git
 ```
